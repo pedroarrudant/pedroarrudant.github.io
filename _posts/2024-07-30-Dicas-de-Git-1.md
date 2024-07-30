@@ -135,7 +135,7 @@ $ git log --oneline
 bf1327d feat: criando repo
 ```
 
-> Para enviar para o repositório remoto vc precisará usar o comando de force no push, uma vez que o commit local difere do remoto. O comando exato é o *git push origin <BRANCH REMOTA> --force*
+> Para enviar para o repositório remoto vc precisará usar o comando de force no push, uma vez que o commit local difere do remoto. O comando exato é o *git push origin BRANCH-REMOTA --force*
 
 Por hoje é isso, see ya.
 
