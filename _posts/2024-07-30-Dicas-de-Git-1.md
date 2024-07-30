@@ -2,9 +2,6 @@
 layout: post
 title: Dicas de Git 1 - Squash Commits
 ---
-
-## Dicas de Git #1 - Squash Commit
-
 Alguma vez você já ficou irritado com o fato de precisar fazer um *cherry-pick* de uma branch para outra, e se deparar com esse cenário:
 
 ```bash
