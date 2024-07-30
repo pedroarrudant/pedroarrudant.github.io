@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testando novo post
+title: Dicas de Git 1
 ---
 
 ## Dicas de Git #1 - Squash Commit
