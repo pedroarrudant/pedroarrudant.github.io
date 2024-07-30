@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dicas de Git 1
+title: Dicas de Git 1 - Squash Commits
 ---
 
 ## Dicas de Git #1 - Squash Commit
