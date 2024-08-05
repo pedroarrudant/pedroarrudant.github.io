@@ -1,6 +1,8 @@
 ---
-layout: post
+layout: posts
 title: O que eu aprenderia se começasse hoje?
+parent: home
+author: Pedro Arruda
 ---
 
 Essa é uma pergunta em que frequentemente é questionada não só para mim, não só para quem já tem anos de carreira, mas sim na cabeça de qualquer estudante que acabou de se formar. Dito isso eu começaria dividindo em 3 conceitos macros:

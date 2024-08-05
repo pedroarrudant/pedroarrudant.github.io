@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: posts
 title: Dicas de Git 1 - Squash Commits
+author: Pedro Arruda
 ---
 Alguma vez você já ficou irritado com o fato de precisar fazer um *cherry-pick* de uma branch para outra, e se deparar com esse cenário:
 

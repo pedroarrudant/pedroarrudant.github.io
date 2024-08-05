@@ -1,0 +1,14 @@
+Pedro Arruda:
+  name: "Pedro Arruda"
+  bio: "Eu gosto de escrever e programar. Aqui essas duas coisas se encontram."
+  avatar: "/images/perfil.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:pedro.arruda@outlook.com.br"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/pedroarrudant"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/pedroarrudant"      
