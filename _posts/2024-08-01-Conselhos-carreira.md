@@ -1,8 +1,12 @@
 ---
-layout: posts
+layout: single
 title: O que eu aprenderia se começasse hoje?
 parent: home
 author: Pedro Arruda
+header:
+  image: "/images/miniatura-notetaking.png"
+  caption: "Dicas de Carreira"
+  teaser: "/images/miniatura-notetaking.png"
 ---
 
 Essa é uma pergunta em que frequentemente é questionada não só para mim, não só para quem já tem anos de carreira, mas sim na cabeça de qualquer estudante que acabou de se formar. Dito isso eu começaria dividindo em 3 conceitos macros:

@@ -1,8 +1,13 @@
 ---
-layout: posts
+layout: single
 title: Dicas de Git 1 - Squash Commits
 author: Pedro Arruda
+header:
+  image: "/images/miniatura-git.png"
+  caption: "Dicas de Git #1"
+  teaser: "/images/miniatura-git.png"
 ---
+# Artigo
 Alguma vez você já ficou irritado com o fato de precisar fazer um *cherry-pick* de uma branch para outra, e se deparar com esse cenário:
 
 ```bash

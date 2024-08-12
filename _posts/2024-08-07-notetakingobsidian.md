@@ -1,8 +1,12 @@
 ---
-layout: posts
+layout: single
 title: Note taking + Obsidian
 parent: home
 author: Pedro Arruda
+header:
+  image: "/images/miniatura-notetaking.png"
+  caption: "Notetaking + Obsidian"
+  teaser: "/images/miniatura-notetaking.png"
 ---
 Muitas vezes durante o inicio de minha carreira me deparei com várias situações onde várias coisas  foram faladas para mim, mostradas e mais do que isso ENSINADAS. No tempo de um ou dois dias depois eu simplesmente esquecia metade, e me vi no cenário de ter que voltar para essas memórias de forma que relembrasse o que tinha feito, mas isso nunca era fácil. Depois de algumas anotações atabalhoadas cheguei no meu sistema de anotações. Sei que ele não resolve todos os problemas, mas com certeza pode ser o ponto de partida para que sejam feitas coisas incríveis na sua carreira.
 
