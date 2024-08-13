@@ -1,6 +1,29 @@
 ---
-layout: home
-author_profile: true
-sidebar:
-  nav: "docs"
+title: "Artigos de tecnologia e programação - Pedro Arruda"
+layout: splash
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /images/splash_screen.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "Falando sobre tecnologia, produtividade e o que mais aparecer."
+feature_row:
+  - image_path: /images/miniatura-notetaking.png
+    alt: "Artigos"
+    title: "Artigos"
+    excerpt: "Veja os últimos artigos publicados."
+    url: "/posts"
+    btn_label: "Veja mais"
+    btn_class: "btn--primary"
+  - image_path: /images/perfil_banner2.jpg
+    alt: "Sobre"
+    title: "Sobre"
+    excerpt: "Saiba mais sobre quem escreve os artigos."
+    url: "/about"
+    btn_label: "Veja mais"
+    btn_class: "btn--primary"      
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}

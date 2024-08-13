@@ -2,6 +2,7 @@
 layout: single
 title: Dicas de Git 1 - Squash Commits
 author: Pedro Arruda
+parent: home
 header:
   image: "/images/miniatura-git.png"
   caption: "Dicas de Git #1"

@@ -1,8 +1,10 @@
 main:
+  - title: "Inicio"
+    url: /index
   - title: "Sobre"
     url: /about
   - title: "Posts"
-    url: /index
+    url: /posts
 # docs:
 #   - title: Getting Started
 #     children:
